@@ -1,0 +1,15 @@
+meter_id,facility_id,year_of_build,building_class_name,area,volume,city,quantity_id
+122490,1066,1981,#RetailTradeBuildings,1725.0,,Raahe,1
+11337,1066,1981,#RetailTradeBuildings,1725.0,,Raahe,3
+11338,1066,1981,#RetailTradeBuildings,1725.0,,Raahe,4
+3728,209,1967,#RetailTradeBuildings,12616.0,78390.0,Savonlinna,1
+105219,209,1967,#RetailTradeBuildings,12616.0,78390.0,Savonlinna,4
+105220,209,1967,#RetailTradeBuildings,12616.0,78390.0,Savonlinna,3
+24594,3971,2005,#RetailTradeBuildings,2385.0,,Helsinki,3
+24598,3971,2005,#RetailTradeBuildings,2385.0,,Helsinki,1
+16868,33606,1996,#RetailTradeBuildings,4692.0,28000.0,Raisio,1
+65612,33606,1996,#RetailTradeBuildings,4692.0,28000.0,Raisio,3
+16883,33606,1996,#RetailTradeBuildings,4692.0,28000.0,Raisio,4
+3195,194,1985,#RetailTradeBuildings,9981.0,60030.0,Salo,1
+105439,194,1985,#RetailTradeBuildings,9981.0,60030.0,Salo,3
+105441,194,1985,#RetailTradeBuildings,9981.0,60030.0,Salo,4
