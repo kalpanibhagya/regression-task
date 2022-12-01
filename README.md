@@ -20,3 +20,5 @@ There are 5 tasks:
 You have complete freedom on how to handle the implementations. The provided functions in the regression_task, can act as a guide, but you are free to do this in any way.
 
 There is no need to create unit/integrations tests.
+
+file_guide.pdf will visualize the data frames relationships
